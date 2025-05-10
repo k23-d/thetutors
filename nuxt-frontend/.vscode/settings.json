@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+      "tailwind.css": "postcss"
+    },
+    "css.validate": false,
+    "stylelint.validate": ["css", "postcss", "scss"]
+  }
+  
